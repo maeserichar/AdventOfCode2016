@@ -1,0 +1,201 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.12.0
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+12 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Direction.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$East$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Left$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$North$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Point$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Point.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Right$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$South$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Turn.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$West$.class
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab.class
+binary dependencies:
+2 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /home/ricardo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+12 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Direction
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$East$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Left$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$North$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Point
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Point$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Right$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$South$
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$Turn
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1.NoTimeForATaxicab$West$
+used names:
+85 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> &&
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> +
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> -
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> <init>
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ==
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> AbstractFunction2
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> AnyRef
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ChangeDirection
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Day1
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Direction
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> East
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> FindFirstRepeatedLocation
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> HashSet
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> IllegalArgumentException
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Int
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Left
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> List
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Math
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> MovePosition
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> MovePositionStepByStep
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Nil
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> NoTimeForATaxicab
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> None
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> North
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Option
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ParseInstruction
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Point
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Predef
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ProcessInstructions
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Product
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Right
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ScalaRunTime
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Serializable
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> South
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Statics
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> String
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Tuple2
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> Turn
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> West
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> _1
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> _2
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> _root_
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> _toString
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> a
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> abs
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> actual
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> asInstanceOf
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> augmentString
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> b
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> collection
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> contains
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> direction
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> eq
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> finalizeHash
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> get
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> head
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> immutable
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> initial
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> instruction
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> instructions
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> isDefined
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> isInstanceOf
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> java
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> lang
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> mix
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ne
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> newDirection
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> newPosition
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> package
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> runtime
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> scala
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> steps
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> stepsCharacter
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> tail
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> toInt
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> toString
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> turn
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> turnCharacter
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> typedProductIterator
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> visited
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> visited_=
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> x
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> xs
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> y
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> ||
+product stamps:
+12 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Direction.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$East$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Left$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$North$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Point$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Point.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Right$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$South$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$Turn.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab$West$.class -> lastModified(1480850337000)
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/target/scala-2.12/classes/Day1/NoTimeForATaxicab.class -> lastModified(1480850337000)
+source stamps:
+1 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> hash(b4c2a59f77a1a27fc0490272a88b700d2dbadc6f)
+binary stamps:
+2 items
+/home/ricardo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar -> lastModified(1477696052000)
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> lastModified(1478352439000)
+class names:
+2 items
+/home/ricardo/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.0.jar -> scala.Serializable
+/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+1 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAv3LurAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAANXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cKUqihx0AAZub3RpZnlzcQB+AAx1o3L+dAAHdW5hcHBseXNxAH4ADHS5Kbd0AAdjdXJyaWVkc3EAfgAMepAUDXQAAXhzcQB+AAylGj12dAAEd2FpdHNxAH4ADAFxzL10AAVTb3V0aHNxAH4ADC6A/u50AA5jb3B5JGRlZmF1bHQkMnNxAH4ADFsp74J0AA0kYXNJbnN0YW5jZU9mc3EAfgAMMCwC6HQADHByb2R1Y3RBcml0eXNxAH4ADNBhDuR0AAZlcXVhbHNzcQB+AAy6owbydAABeXNxAH4ADMhDs/50AARFYXN0c3EAfgAM2utOz3QADGFzSW5zdGFuY2VPZnNxAH4ADCchrjx0AAVQb2ludHNxAH4ADKTEmol0AA9UYXhpY2FiRGlzdGFuY2VzcQB+AAzphTOCdAAMc3luY2hyb25pemVkc3EAfgAMlbKDIXQAEFBhcnNlSW5zdHJ1Y3Rpb25zcQB+AAyZ/YsAdAANJGlzSW5zdGFuY2VPZnNxAH4ADClEznt0AAZ0dXBsZWRzcQB+AAyoIhOkdAAPQ2hhbmdlRGlyZWN0aW9uc3EAfgAMy4G1vnQAB3Zpc2l0ZWRzcQB+AAzRR3GOdAAIY2FuRXF1YWxzcQB+AAz7yh00dAANcHJvZHVjdFByZWZpeHNxAH4ADExIG/h0AARUdXJuc3EAfgAMuOpAsHQACW5vdGlmeUFsbHNxAH4ADFswds10AAtyZWFkUmVzb2x2ZXNxAH4ADBUaVCx0AAxpc0luc3RhbmNlT2ZzcQB+AAw1DxVRdAAGPGluaXQ+c3EAfgAMp8LW1nQABWFwcGx5c3EAfgAMU7EHzHQAAj09c3EAfgAMz7EMlHQABExlZnRzcQB+AAxgHv6PdAAFY2xvbmVzcQB+AAx0nE/ldAAEY29weXNxAH4ADBUgolB0AAh0b1N0cmluZ3NxAH4ADMh6qpt0AAIhPXNxAH4ADIS5uct0AAhnZXRDbGFzc3NxAH4ADLEbW1R0ABNQcm9jZXNzSW5zdHJ1Y3Rpb25zc3EAfgAMicCDGXQADmNvcHkkZGVmYXVsdCQxc3EAfgAM4b6O+3QABFdlc3RzcQB+AAyQFpxddAACbmVzcQB+AAw3cGb5dAAFUmlnaHRzcQB+AAx16C22dAARTm9UaW1lRm9yQVRheGljYWJzcQB+AAyU2akedAACZXFzcQB+AAx/0HzTdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAM4SosVHQAFk1vdmVQb3NpdGlvblN0ZXBCeVN0ZXBzcQB+AAxKBLyidAAMTW92ZVBvc2l0aW9uc3EAfgAMbZldPXQAAiMjc3EAfgAM9CnTxnQACGZpbmFsaXplc3EAfgAMGs4tRHQADnByb2R1Y3RFbGVtZW50c3EAfgAM9HzX2XQACGhhc2hDb2Rlc3EAfgAMevSGkXQAGUZpbmRGaXJzdFJlcGVhdGVkTG9jYXRpb25zcQB+AAxch4/BdAAFTm9ydGhzcQB+AAxLIpYxdAAJRGlyZWN0aW9uc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AgXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAFkRheTEuTm9UaW1lRm9yQVRheGljYWJ1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHABc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHBzcQB+AJkBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AIFMAAlpbmhlcml0ZWRxAH4AgUwAB3BhcmVudHNxAH4AgXhxAH4AoHNxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cQB+AHwAAAAAcHNxAH4AmQF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AJ90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AJ9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+ALh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+ALlzcQB+AKx0AANBbnlzcQB+ALBzcQB+ALN1cQB+ALYAAAACc3EAfgC4dAAFc2NhbGFxAH4Av3BwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAFzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAERGF5MXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMmO7Ah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABVL21lZGlhL0RhdG9zL0Rlc2Fycm9sbG8vU2NhbGEvcGFyYWxsZWxwcm9nL0FkdmVudE9mQ29kZTIwMTYvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFLTCpZ93oaJ/wEkCcqiLcA0tutxv
+external apis:
+0 items
+source infos:
+1 items
+/media/Datos/Desarrollo/Scala/parallelprog/AdventOfCode2016/src/main/scala/Day1/NoTimeForATaxicab.scala -> 
+AAAAAAAAAAA=
+compilations:
+9 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMSQCFp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMSUmf51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMSY9mB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMSe+4B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMSgGIh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMS6HUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMmNZg11cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMmOkJ91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+8 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWMmO7Ah1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAVS9tZWRpYS9EYXRvcy9EZXNhcnJvbGxvL1NjYWxhL3BhcmFsbGVscHJvZy9BZHZlbnRPZkNvZGUyMDE2L3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
